@@ -1,0 +1,1 @@
+This is an Android App that is used with an embedded device to communicate through bluetooth with the controller on the Jet 3 Ultra wheelchair
